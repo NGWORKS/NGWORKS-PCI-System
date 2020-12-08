@@ -63,6 +63,7 @@ NGWORKS Psychological Crisis Intervention System
 |ps|一页展示多少根评论|字符串|Y|最大49|
 |pn|获取指定页的评论|字符串|Y|-|
 
+
 上面这个API获取的数据中会**默认携带三条针对根评论的回复**，如果这个评论下的回复大于3，请再使用下面这个API请求：
 
 ```
