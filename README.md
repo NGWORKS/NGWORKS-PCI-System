@@ -37,7 +37,7 @@ NGWORKS Psychological Crisis Intervention System
 * [琉科Ryuko“树洞”](https://t.bilibili.com/457347621130311478),目前有1655条数据
   > B站up主、武工大学生、画师；于2020年11月19日凌晨3时许跳楼自杀死亡
 * [Neuuuuu“树洞”](https://www.bilibili.com/video/av1712033)，目前有92041条数据
-  > B站up主、唱见；于2014年11月29日中午12时许烧炭自杀一氧化碳中毒死亡
+  > B站up主、唱见；于2014年11月29日中午12时许燃炭自杀死亡
 
 非常**不建议**看到这里的朋友跑去留言，谢谢
 
