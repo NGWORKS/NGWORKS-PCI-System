@@ -221,7 +221,7 @@ data中的url即为该评论区所有评论的文本文件下载地址。
 
 # 参考文献
 > 有些已经参考了，有些还在看，先写这，免得忘了
-* [World Health Organization. World Health Statistics 2018:monitoring health for the SDGs[EB/OL]. (2018-06-06)[2019-02-06].] (https://apps.who.int/iris/bitstream/handle/10665/272596/9789241565585-eng.pdf?ua=1)
+* [World Health Organization. World Health Statistics 2018:monitoring health for the SDGs[EB/OL]. (2018-06-06)[2019-02-06].](https://apps.who.int/iris/bitstream/handle/10665/272596/9789241565585-eng.pdf?ua=1)
 * 杨芳，黄智生，杨冰香，等. 基于人工智能技术的微博“树洞”用户自杀意念分析[J]. 护理学杂志，2019，34(24)：42-43.
 * 黄智生，胡青，顾进广，等. 网络智能机器人与自杀监控预警[J]. 中国数字医学，2019，14(3)：3-6.
 * 黄智生，闵一文，林凤，等．社交媒体中自杀信息的时间特征[J]．中国数字医学，2019，14(3)：7-10．
