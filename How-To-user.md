@@ -9,8 +9,8 @@ NGWORKS-PCI-Sestem
 |--LICENSE        （许可）  
 |--README.md      （自述文档）  
 |--Crawler        （爬虫）  
-|  |--active.py    (爬取动态的包）  
-|  |--fuc.py       (常用的函数）  
-|  |--DB.py        (操作数据库的上下文管理器）  
-|  |--dynamic.db   (动态数据库）  
-|  |--dxc.py       (【实验】多线程）-可能后续弃用  
+|     |--active.py    (爬取动态的包）  
+|     |--fuc.py       (常用的函数）  
+|     |--DB.py        (操作数据库的上下文管理器）  
+|     |--dynamic.db   (动态数据库）  
+|     |--dxc.py       (【实验】多线程）-可能后续弃用  
