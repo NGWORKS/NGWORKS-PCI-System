@@ -1,7 +1,7 @@
 # NGWORKS心理危机干预系统
-NGWORKS Psychological Crisis Intervention System
+NGWORKS Psychological Crisis Intervention System  
 **警告[WARNING]：本文档会关联部分有关抑郁症群体活动的“树洞”，如果你没有充足的专业知识储备，请不要擅自干预，因为你不知道你是否会给他们带来二次伤害，请你求助更加专业人士来做。请务必记着。**
-> 开发者的话：纵使不能握手、拥抱、聚会 即使悲伤真的很痛 但请记得为悲伤寻找出口。
+> 开发者寄语：纵使不能握手、拥抱、聚会，即使悲伤真的很痛，但请记得为悲伤寻找出口。
 
 ## 1.1 什么是NGWORKS心理危机干预系统
 
